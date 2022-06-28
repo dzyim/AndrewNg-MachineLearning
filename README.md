@@ -9,3 +9,7 @@ Lectures and Assignments of Machine Learning Online Course by Andrew Ng
 - Linear Regression with One Variable
 - Linear Algebra Review
 
+## Week 2
+- Linear Regression with Multiple Variables
+- Octave/Matlab Tutorial
+
