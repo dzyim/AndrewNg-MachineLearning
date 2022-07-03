@@ -9,18 +9,37 @@ We’ll also have optional lessons that provide a refresher on linear algebra co
 ## Introduction
 
 ### Welcome
+- Welcome to Machine Learning!
+- Machine Learning Honor Code
 ### Introduction
+- Welcome
+- What is Machine Learning?
+- Supervised Learning
+- Unsupervised Learning
 ### Review
 
 ## Linear Regression with One Variable
 
 ### Model and Cost Function
+- Model Representation
+- Cost Function
+- Cost Function - Intuition I
+- Cost Function - Intuition II
 ### Parameter Learning
+- Gradient Descent
+- Gradient Descent Intuition
+- Gradient Descent for Linear Regression
 ### Review
 
 ## Linear Algebra Review
 
 ### Linear Algebra Review
+- Matrices and Vectors
+- Addition and Scalar Multiplication
+- Matrix Vector Multiplication
+- Matrix Matrix Multiplication
+- Matrix Multiplication Properties
+- Inverse and Transpose
 ### Review
 
 
