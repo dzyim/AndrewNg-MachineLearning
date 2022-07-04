@@ -13,3 +13,7 @@ Lectures and Assignments of Machine Learning Online Course by Andrew Ng
 - Linear Regression with Multiple Variables
 - Octave/Matlab Tutorial
 
+## Week 3
+- Logistic Regression
+- Regularization
+
