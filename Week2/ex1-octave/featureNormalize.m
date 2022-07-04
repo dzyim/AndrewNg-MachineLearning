@@ -26,12 +26,9 @@ sigma = zeros(1, size(X, 2));
 % Hint: You might find the 'mean' and 'std' functions useful.
 %       
 
-
-
-
-
-
-
+mu = mean(X)  % mean(X, DIM=1, OPT="a")
+sigma = std(X)  % std(X, OPT=0, DIM=1)
+X_norm = (X - mu) ./ sigma  % Note: Matrix ./ vector
 
 
 % ============================================================

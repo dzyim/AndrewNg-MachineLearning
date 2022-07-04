@@ -9,14 +9,31 @@ As always, if you get stuck on the quiz and programming assignment, you should p
 ## Linear Regression with Multiple Variables
 
 ### Environment Setup Instructions
+- Setting Up Your Programming Assignment Environment
+- Access to MATLAB Online and the Exercise Files for MATLAB Users
+- Installing Octave
+- More Octave/MATLAB resources
 ### Multivariate Linear Regression
+- Multiple Features
+- Gradient Descent for Multiple Variables
+- Gradient Descent in Practice I - Feature Scaling
+- Gradient Descent in Practice II - Learning Rate
+- Features and Polynomial Regression
 ### Computing Parameters Analytically
+- Normal Equation
+- Normal Equation Non-invertibility
 ### Submitting Programming Assignments
 ### Review
 
 ## Octave/Matlab Tutorial
 
 ### Octave/Matlab Tutorial
+- Basic Operations
+- Moving Data Around
+- Computing on Data
+- Plotting Data
+- Control Statements: for, while, if statement
+- Vectorization
 ### Review
 
 
