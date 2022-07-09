@@ -3,6 +3,8 @@ Lectures and Assignments of Machine Learning Online Course by Andrew Ng
 
 ## Links
 - [(YouTube) Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [(Bilibili) Coursera Machine Learning by Andrew Ng](https://www.bilibili.com/video/BV1Vx411Q7yn)
+- [(Bilibili) 吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx)
 
 ## Week 1
 - Introduction
@@ -16,4 +18,7 @@ Lectures and Assignments of Machine Learning Online Course by Andrew Ng
 ## Week 3
 - Logistic Regression
 - Regularization
+
+## Week 4
+- Neural Networks: Representation
 
