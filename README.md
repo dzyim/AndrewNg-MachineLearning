@@ -22,3 +22,6 @@ Lectures and Assignments of Machine Learning Online Course by Andrew Ng
 ## Week 4
 - Neural Networks: Representation
 
+## Week 5
+- Neural Networks: Learning
+
