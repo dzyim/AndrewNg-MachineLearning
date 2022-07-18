@@ -38,9 +38,9 @@ grad = zeros(size(theta));
 %
 
 J = (1/m * (- y' * log(sigmoid(X*theta)) - (1-y)' * log(1-sigmoid(X*theta))) 
-     + lambda/m * 1/2 * theta(2:n)'*theta(2:n))                                % with regularization
-grad(1) = 1/m * X(:, 1)' * (sigmoid(X*theta) - y)                              % no regularization
-grad(2:n) = 1/m * X(:, 2:n)' * (sigmoid(X*theta) - y) + lambda/m * theta(2:n)  % with regularization
+     + lambda/m * 1/2 * theta(2:n)'*theta(2:n));                               % with regularization
+grad(1) = 1/m * X(:, 1)' * (sigmoid(X*theta) - y);                             % no regularization
+grad(2:n) = 1/m * X(:, 2:n)' * (sigmoid(X*theta) - y) + lambda/m * theta(2:n); % with regularization
 
 
 % =============================================================

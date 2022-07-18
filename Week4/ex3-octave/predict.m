@@ -22,13 +22,13 @@ p = zeros(size(X, 1), 1);
 %
 
 % Compute layer 2
-a1 = [ones(m, 1) X]
-a2 = sigmoid(a1 * Theta1')
+a1 = [ones(m, 1) X];
+a2 = sigmoid(a1 * Theta1');
 
 % Compute layer 3
-a2 = [ones(size(a2, 1), 1) a2]
-a3 = sigmoid(a2 * Theta2')
-[value, p] = max(a3, [], 2)  % indices as predictions
+a2 = [ones(size(a2, 1), 1) a2];
+a3 = sigmoid(a2 * Theta2');
+[value, p] = max(a3, [], 2); % indices as predictions
 
 
 % =========================================================================

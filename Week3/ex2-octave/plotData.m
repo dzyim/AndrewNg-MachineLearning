@@ -12,15 +12,15 @@ figure; hold on;
 %               examples and 'ko' for the negative examples.
 %
 
-pos = find(y == 1)
-neg = find(y == 0)
+pos = find(y == 1);
+neg = find(y == 0);
 
-plot(X(pos, 1), X(pos, 2), "k+", "MarkerSize", 7)  % border = "black", shape = "+"
-plot(X(neg, 1), X(neg, 2), "ko", "MarkerFaceColor", "y", "MarkerSize", 7)  % border = "black", shape = "o", fill = "yellow"
+plot(X(pos, 1), X(pos, 2), "k+", "MarkerSize", 7); % border = "black", shape = "+"
+plot(X(neg, 1), X(neg, 2), "ko", "MarkerFaceColor", "y", "MarkerSize", 7); % border = "black", shape = "o", fill = "yellow"
 
-% xlabel("Exam 1 Score")
-% ylabel("Exam 2 Score")
-% legend('Admitted', 'Not admitted')
+% xlabel("Exam 1 Score");
+% ylabel("Exam 2 Score");
+% legend('Admitted', 'Not admitted');
 
 
 % =========================================================================
